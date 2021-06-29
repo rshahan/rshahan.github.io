@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0 | Rachel Shahan Ph.D.</title>
+    <link>https://rshahan.github.io/publication-type/0/</link>
+      <atom:link href="https://rshahan.github.io/publication-type/0/index.xml" rel="self" type="application/rss+xml" />
+    <description>0</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Rachel Shahan, Ph.D.</copyright><lastBuildDate>Sat, 29 Jun 2013 10:18:47 -0400</lastBuildDate>
+    <image>
+      <url>https://rshahan.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>0</title>
+      <link>https://rshahan.github.io/publication-type/0/</link>
+    </image>
+    
+    <item>
+      <title>Genome-Scale Transcriptomic Insights into Early-Stage Fruit Development in Woodland Strawberry Fragaria vesca </title>
+      <link>https://rshahan.github.io/publication/genome-scale-transcriptomic/</link>
+      <pubDate>Sat, 29 Jun 2013 10:18:47 -0400</pubDate>
+      <guid>https://rshahan.github.io/publication/genome-scale-transcriptomic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
