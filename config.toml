@@ -1,0 +1,4 @@
+baseURL = "https://rshahan.github.io/"
+languageCode = "en-us"
+title = "Rachel Shahan Ph.D."
+theme = "hugo-researcher"
